@@ -1,6 +1,7 @@
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
+    publi static o=0;
     public static void main(String[] args) {
         //task 1
         System.out.println(VariableOperations.a);
