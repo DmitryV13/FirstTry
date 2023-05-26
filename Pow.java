@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Pow {
-    int t=9;
-    //uyfufffuyfuyuyfuyfuy
-    int y=0;
     public static AtomicInteger i=new AtomicInteger(1);
     public static ArrayList<Double> thread1=new ArrayList<>();
     public static ArrayList<Double> thread2=new ArrayList<>();
